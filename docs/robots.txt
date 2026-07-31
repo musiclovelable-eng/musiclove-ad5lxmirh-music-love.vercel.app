@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musiclovelable-eng.github.io/musiclove-ad5lxmirh-music-love.vercel.app/sitemap.xml
